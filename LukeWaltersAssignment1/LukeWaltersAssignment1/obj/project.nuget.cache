@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5+OKKnlVmnjYar4mfQmyW0H9ncOvHWoS+VynxCVLmIZ3nEFPrTCtIWe0x6ucYLtXE2ZEyfWUBp2ENvPbAYxeoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LukeA\\source\\repos\\LukeWaltersAssignment1\\LukeWaltersAssignment1\\LukeWaltersAssignment1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LukeA\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\LukeA\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\LukeA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\LukeA\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\LukeA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\LukeA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
