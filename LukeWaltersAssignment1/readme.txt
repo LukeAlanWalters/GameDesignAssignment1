@@ -1,1 +1,0 @@
-This file has no special instructions on how to build the file as the entirety of the game is in a single file do to the games simplistic nature. 
